@@ -7,17 +7,12 @@ As the data analyst (Peter Pandey), I analyzed the complete dataset and built a 
 
 🔍 Key Focus Areas
 
-Customer Segmentation for identifying recoverable vs. churn-risk users
-
-Order Pattern Analysis across pre-crisis, crisis, and recovery phases
-
-Delivery Performance Evaluation (SLA breaches, cancellations, delay spikes)
-
-Sentiment Analysis using ratings & reviews
-
-Restaurant Partnership Value Assessment
-
-Targeted Campaign Opportunities to rebuild trust and retention
+* Customer Segmentation for identifying recoverable vs. churn-risk users
+* Order Pattern Analysis across pre-crisis, crisis, and recovery phases
+* Delivery Performance Evaluation (SLA breaches, cancellations, delay spikes)
+* Sentiment Analysis using ratings & reviews
+* Restaurant Partnership Value Assessment
+* Targeted Campaign Opportunities to rebuild trust and retention
 
 📊 Tech Used
 
@@ -27,10 +22,7 @@ Python, SQL, Power BI, Excel, Tableau
 
 A complete recovery roadmap featuring:
 
-Interactive BI dashboard
-
-Churn prediction insights
-
-Restaurant value matrix
-
-Actionable recommendations for leadership
+* Interactive BI dashboard
+* Churn prediction insights
+* Restaurant value matrix
+* Actionable recommendations for leadership
