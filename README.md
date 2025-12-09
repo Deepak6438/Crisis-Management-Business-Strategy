@@ -1,10 +1,10 @@
-1. Executive Summary
+## 1. Executive Summary
 
-In June 2025, QuickBite Express, a Bengaluru-based food-tech startup, faced a major operational and reputational crisis. A viral social media video exposing food safety violations at partner restaurants, combined with a week-long delivery outage due to monsoon disruptions, triggered massive customer backlash. The crisis led to a sharp decline in user activity, order volume, partner retention, and customer satisfaction.
+**In June 2025, QuickBite Express,** a Bengaluru-based food-tech startup, faced a major operational and reputational crisis. A viral social media video exposing food safety violations at partner restaurants, combined with a week-long delivery outage due to monsoon disruptions, triggered massive customer backlash. The crisis led to a sharp decline in user activity, order volume, partner retention, and customer satisfaction.
 
-This project presents a comprehensive crisis management and business recovery strategy supported by data analytics. Insights were derived from customer trends, order data, delivery performance, sentiment, and restaurant partnerships. The report outlines a structured, measurable turnaround plan to restore trust, rebuild operations, and strengthen competitive positioning.
+**This project presents a comprehensive crisis management and business recovery strategy supported by data analytics.** Insights were derived from customer trends, order data, delivery performance, sentiment, and restaurant partnerships. The report outlines a structured, measurable turnaround plan to restore trust, rebuild operations, and strengthen competitive positioning.
 
-2. Crisis Background & Impact Analysis
+## 2. Crisis Background & Impact Analysis
 2.1 Root Causes
 
 Viral food-safety violation video from partner restaurant
@@ -27,7 +27,7 @@ Partner Attrition: High-value restaurants shifted platforms
 
 High CAC: Customer acquisition cost increased by 30–40%
 
-3. Analytical Approach
+## 3. Analytical Approach
 3.1 Data Sources Explored
 
 Customer Profiles
@@ -52,7 +52,7 @@ Power BI / Tableau (for dashboarding)
 
 Excel (for quick summaries and pivots)
 
-4. Key Insights from Data Analysis
+## 4. Key Insights from Data Analysis
 4.1 Customer Segmentation (Recoverable vs Churned Users)
 
 Recoverable Users (47%)
@@ -105,7 +105,7 @@ Low-rated kitchens were the primary cause of reputation damage
 
 Restaurants with better hygiene audits retained customers longer
 
-5. Crisis Management Strategy
+## 5. Crisis Management Strategy
 5.1 Immediate Actions (0–30 Days)
 1. Trust Rebuilding
 
@@ -131,7 +131,7 @@ Increase buffer delivery partners in high-demand zones
 
 Introduce real-time SLA tracker
 
-6. Business Recovery Strategy (1–6 Months)
+## 6. Business Recovery Strategy (1–6 Months)
 6.1 Customer Retention
 
 Personalized win-back offers for recoverable users
@@ -164,7 +164,7 @@ Collaborate with influencers to rebuild image
 
 Hyperlocal marketing around affected clusters
 
-7. Dashboard & Metrics
+## 7. Dashboard & Metrics
 
 An interactive dashboard was created to track:
 
@@ -182,38 +182,25 @@ Marketing campaign ROI
 
 This dashboard enables real-time decision-making for the leadership team.
 
-8. Recommendations
-Strategic Recommendations
+## 8. Recommendations
+* Strategic Recommendations
+* Prioritize High-Value Recoverable Users
+* Enhance Food Safety Transparency
+* Strengthen Delivery Infrastructure (Weather-Resilient)
+* Focus on High-ROI Restaurant Partnerships
+* Invest in Data-Driven Personalization
+* Operational Recommendations
+* Expand partner training programs
+* Real-time issue alert system for kitchens & delivery
+* Predictive demand modeling for better agent allocation
 
-Prioritize High-Value Recoverable Users
-
-Enhance Food Safety Transparency
-
-Strengthen Delivery Infrastructure (Weather-Resilient)
-
-Focus on High-ROI Restaurant Partnerships
-
-Invest in Data-Driven Personalization
-
-Operational Recommendations
-
-Expand partner training programs
-
-Real-time issue alert system for kitchens & delivery
-
-Predictive demand modeling for better agent allocation
-
-9. Conclusion
+## 9. Conclusion
 
 The crisis highlighted major vulnerabilities in QuickBite’s ecosystem—food safety, dependency on weather-sensitive logistics, and inconsistent partner quality.
 However, through systematic data analysis and strategic planning, QuickBite can achieve:
 
-A strong rebound in user trust
-
-Improved operational efficiency
-
-Long-term restaurant partnerships
-
-Sustainable growth in the post-crisis period
-
-This project demonstrates the power of data-driven crisis management, combining analytics, business acumen, and strategy to navigate a real-world challenge.
+* A strong rebound in user trust
+* Improved operational efficiency
+* Long-term restaurant partnerships
+* Sustainable growth in the post-crisis period
+* This project demonstrates the power of data-driven crisis management, combining analytics, business acumen, and strategy to navigate a real-world challenge.
