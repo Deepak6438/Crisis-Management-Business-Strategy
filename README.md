@@ -6,51 +6,20 @@
 
 ## 2. Crisis Background & Impact Analysis
 2.1 Root Causes
-
-Viral food-safety violation video from partner restaurant
-
-7-day delivery outage during peak monsoon season
-
-Aggressive competitor campaigns during downtime
-
-Saturation of negative sentiment on social media
+Viral food-safety violation video from partner restaurant 7-day delivery outage during peak monsoon season Aggressive competitor campaigns during downtime Saturation of negative sentiment on social media
 
 2.2 Business Impact
-
-Loss of Active Users: Significant drop in daily active users
-
-Decline in Orders: Up to 45–60% drop compared to earlier months
-
-Negative Sentiment Surge: Ratings fell below 3 stars across key zones
-
-Partner Attrition: High-value restaurants shifted platforms
-
-High CAC: Customer acquisition cost increased by 30–40%
+Loss of Active Users: Significant drop in daily active users Decline in Orders: Up to 45–60% drop compared to earlier months Negative Sentiment Surge: Ratings fell below 3 stars across key zones Partner Attrition: High-value restaurants shifted platforms High CAC: Customer acquisition cost increased by 30–40%
 
 ## 3. Analytical Approach
 3.1 Data Sources Explored
-
-Customer Profiles
-
-Order Transactions
-
-Delivery Time Logs
-
-Ratings & Reviews
-
-Restaurant Partner Data
-
-Marketing Campaign Logs
+Customer Profiles, Order Transactions, Delivery Time Logs, Ratings & Reviews, Restaurant Partner Data, Marketing Campaign Logs
 
 3.2 Tools Used
-
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-
-SQL (for segmentation, trend analysis, ad-hoc insights)
-
-Power BI / Tableau (for dashboarding)
-
-Excel (for quick summaries and pivots)
+  * Python (Pandas, NumPy, Matplotlib, Seaborn)
+  * SQL (for segmentation, trend analysis, ad-hoc insights)
+  * Power BI / Tableau (for dashboarding)
+  * Excel (for quick summaries and pivots)
 
 ## 4. Key Insights from Data Analysis
 4.1 Customer Segmentation (Recoverable vs Churned Users)
