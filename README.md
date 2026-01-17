@@ -23,56 +23,25 @@ Customer Profiles, Order Transactions, Delivery Time Logs, Ratings & Reviews, Re
 
 ## 4. Key Insights from Data Analysis
 4.1 Customer Segmentation (Recoverable vs Churned Users)
-
-Recoverable Users (47%)
-Had high historic order frequency, moderate dissatisfaction, and lower time since last order.
-
-High Churn-Risk Users (22%)
-Experienced delivery delays + low ratings pre-crisis.
-
-Lost Users (31%)
-Severe dissatisfaction, long inactivity, and switched to competitors.
-
+Recoverable Users (47%) Had high historic order frequency, moderate dissatisfaction, and lower time since last order. High Churn-Risk Users (22%) Experienced delivery delays + low ratings pre-crisis. Lost Users (31%) Severe dissatisfaction, long inactivity, and switched to competitors.
 4.2 Order Pattern Analysis
-
 Phase-wise insights:
-
-Pre-Crisis: Stable growth in orders and repeat users
-
-Crisis: 55% drop in orders, spike in cancellations
-
-Recovery Phase: Slow rebound, primarily driven by heavy discounts
-
-Order value variability reduced → indicating price-sensitive recovery.
-
+ * Pre-Crisis: Stable growth in orders and repeat users
+ * Crisis: 55% drop in orders, spike in cancellations
+ * Recovery Phase: Slow rebound, primarily driven by heavy discounts
+ * Order value variability reduced → indicating price-sensitive recovery.
 4.3 Delivery Performance
-
-SLA breaches increased by 3.2x during and after outage
-
-Average delivery time rose from 32 min → 61 min
-
-18% delivery partners were unavailable due to weather
-
-High cancellation clusters matched heavy rain zones
-
+ * SLA breaches increased by 3.2x during and after outage
+ * Average delivery time rose from 32 min → 61 min
+ * 18% delivery partners were unavailable due to weather
+ * High cancellation clusters matched heavy rain zones
 4.4 Sentiment Analysis
-
-63% of reviews mentioned “delay”, “cold food”, “not fresh”
-
-Safety-related keywords increased dramatically:
-“unhygienic”, “unsafe”, “low quality”
-
-Positive reviews mainly from loyal customers using subscription packs
-
+63% of reviews mentioned “delay”, “cold food”, “not fresh” Safety-related keywords increased dramatically: “unhygienic”, “unsafe”, “low quality” Positive reviews mainly from loyal customers using subscription packs
 4.5 Restaurant Partnership Insights
-
-Top 15% restaurants contributed 52% of revenue
-
-High-rated kitchens remained loyal despite crisis
-
-Low-rated kitchens were the primary cause of reputation damage
-
-Restaurants with better hygiene audits retained customers longer
+ * Top 15% restaurants contributed 52% of revenue
+ * High-rated kitchens remained loyal despite crisis
+ * Low-rated kitchens were the primary cause of reputation damage
+ * Restaurants with better hygiene audits retained customers longer
 
 ## 5. Crisis Management Strategy
 5.1 Immediate Actions (0–30 Days)
