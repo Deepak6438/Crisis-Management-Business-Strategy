@@ -59,54 +59,31 @@ Phase-wise insights:
 
 ## 6. Business Recovery Strategy (1–6 Months)
 6.1 Customer Retention
-
-Personalized win-back offers for recoverable users
-
-Loyalty program revamp (tiered rewards, free delivery credits)
-
-Reactivation campaigns using customer segmentation models
-
+  * Personalized win-back offers for recoverable users
+  * Loyalty program revamp (tiered rewards, free delivery credits)
+  * Reactivation campaigns using customer segmentation models
 6.2 Restaurant Ecosystem Strengthening
-
-Incentives for hygiene-compliant partners
-
-Exit low-quality kitchens
-
-Onboard premium restaurants to rebuild brand trust
-
+  * Incentives for hygiene-compliant partners
+  * Exit low-quality kitchens
+  * Onboard premium restaurants to rebuild brand trust
 6.3 Operational Excellence
-
-Route optimization using weather and traffic data
-
-SLA-based incentives for delivery partners
-
-Dedicated “Priority Lane” for orders from high-value customers
-
+  * Route optimization using weather and traffic data
+  * SLA-based incentives for delivery partners
+  * Dedicated “Priority Lane” for orders from high-value customers
 6.4 Brand Building & Marketing
-
-“Safe & Fast” brand positioning
-
-Collaborate with influencers to rebuild image
-
-Hyperlocal marketing around affected clusters
+  * “Safe & Fast” brand positioning
+  * Collaborate with influencers to rebuild image
+  * Hyperlocal marketing around affected clusters
 
 ## 7. Dashboard & Metrics
-
-An interactive dashboard was created to track:
-
-Daily orders & cancellations
-
-Churn vs recovery user pool
-
-Delivery performance (SLA, delays, routes)
-
-Sentiment & ratings trends
-
-High-value partner performance
-
-Marketing campaign ROI
-
-This dashboard enables real-time decision-making for the leadership team.
+  * An interactive dashboard was created to track:
+  * Daily orders & cancellations
+  * Churn vs recovery user pool
+  * Delivery performance (SLA, delays, routes)
+  * Sentiment & ratings trends
+  * High-value partner performance
+  * Marketing campaign ROI
+  * This dashboard enables real-time decision-making for the leadership team.
 
 ## 8. Recommendations
 * Strategic Recommendations
