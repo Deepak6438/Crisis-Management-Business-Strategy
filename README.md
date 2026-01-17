@@ -46,28 +46,16 @@ Phase-wise insights:
 ## 5. Crisis Management Strategy
 5.1 Immediate Actions (0–30 Days)
 1. Trust Rebuilding
-
-Launch Food Safety Guarantee Badge
-
-Mandatory hygiene audits for all cloud kitchens
-
-Real-time kitchen monitoring through IoT sensors
-
+   * Launch Food Safety Guarantee Badge
+   * Mandatory hygiene audits for all cloud kitchens
+   * Real-time kitchen monitoring through IoT sensors
 2. Customer Communication
-
-Push notifications explaining recovery actions
-
-Apology coupons for affected users
-
-“We’re fixing it” campaign on social platforms
-
+   * Push notifications explaining recovery actions
+   * Apology coupons for affected users
+   * “We’re fixing it” campaign on social platforms
 3. Operational Stabilization
-
-Deploy monsoon-resistant delivery fleet
-
-Increase buffer delivery partners in high-demand zones
-
-Introduce real-time SLA tracker
+   * Deploy monsoon-resistant delivery fleet
+   * Increase buffer delivery partners in high-demand zones Introduce real-time SLA tracker
 
 ## 6. Business Recovery Strategy (1–6 Months)
 6.1 Customer Retention
